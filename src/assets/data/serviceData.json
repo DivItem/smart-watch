@@ -1,0 +1,32 @@
+[
+    {
+        "class" : "lnr-user",
+        "serviceTitle" : "Expert Technicians",
+        "serviceText" : "Usage of the Internet is becoming more common due to rapid advancement of technology and power."
+    },
+    {
+        "class" : "lnr-license",
+        "serviceTitle" : "Professional Service",
+        "serviceText" : "Usage of the Internet is becoming more common due to rapid advancement of technology and power."
+    },
+    {
+        "class" : "lnr-phone",
+        "serviceTitle" : "Great Support",
+        "serviceText" : "Usage of the Internet is becoming more common due to rapid advancement of technology and power."
+    },
+    {
+        "class" : "lnr-rocket",
+        "serviceTitle" : "Technical Skills",
+        "serviceText" : "Usage of the Internet is becoming more common due to rapid advancement of technology and power."
+    },
+    {
+        "class" : "lnr-diamond",
+        "serviceTitle" : "Highly Recomended",
+        "serviceText" : "Usage of the Internet is becoming more common due to rapid advancement of technology and power."
+    },
+    {
+        "class" : "lnr-bubble",
+        "serviceTitle" : "Positive Reviews",
+        "serviceText" : "Usage of the Internet is becoming more common due to rapid advancement of technology and power."
+    }
+]

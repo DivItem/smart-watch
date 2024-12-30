@@ -1,0 +1,22 @@
+[
+    {
+        "productImage" : "/src/assets/img/u1.jpg",
+        "productTitle" : "Apple Watch White",
+        "price" : "£399.00"
+    },
+    {
+        "productImage" : "/src/assets/img/u2.jpg",
+        "productTitle" : "Apple Watch White",
+        "price" : "£399.00"
+    },
+    {
+        "productImage" : "/src/assets/img/u3.jpg",
+        "productTitle" : "Apple Watch White",
+        "price" : "£399.00"
+    },
+    {
+        "productImage" : "/src/assets/img/u4.jpg",
+        "productTitle" : "Apple Watch White",
+        "price" : "£399.00"
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+      "id": "collapseOne",
+      "headerId": "headingOne",
+      "question": "Are your Templates responsive?",
+      "answer": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.",
+      "defaultOpen": true
+    },
+    {
+      "id": "collapseTwo",
+      "headerId": "headingTwo",
+      "question": "Does it have all the plugin as mentioned?",
+      "answer": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.",
+      "defaultOpen": false
+    },
+    {
+      "id": "collapseThree",
+      "headerId": "headingThree",
+      "question": "Can I use these themes for my client?",
+      "answer": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.",
+      "defaultOpen": false
+    },
+    {
+      "id": "collapseFour",
+      "headerId": "headingFour",
+      "question": "Are your Templates responsive?",
+      "answer": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.",
+      "defaultOpen": false
+    }
+]

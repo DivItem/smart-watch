@@ -1,0 +1,33 @@
+
+/*--------------------------------------------------------------
+# Header
+--------------------------------------------------------------*/
+#header {
+  padding: 14px 0;
+  position: fixed;
+  left: 0;
+  top: 0;
+  right: 0;
+  transition: all 0.5s;
+  z-index: 997;
+}
+
+#header.header-scrolled {
+  background: rgba(#04091e, 0.9);
+  transition: all 0.5s;
+}
+
+// #header {
+//   transition: all 0.3s ease-in-out;
+// }
+
+// .header-scrolled {
+//   background-color: #333;
+//   box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+// }
+
+@media(max-width:673px){
+  #logo{
+      margin-left:20px;
+  }
+}
